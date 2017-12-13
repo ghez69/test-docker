@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM i386/centos:latest
 
 LABEL maintainer="Herve Meftah dockerlite@gmail.com"
 
